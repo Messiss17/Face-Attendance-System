@@ -9,7 +9,7 @@ from datetime import datetime
 # -----------------------------
 
 face_detector = cv2.CascadeClassifier(
-    "haarcascade_frontalface_default.xml.txt.xml"
+    "haarcascade_frontalface_default.xml"
 )
 
 
